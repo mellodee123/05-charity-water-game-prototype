@@ -17,4 +17,4 @@ Then visit `http://localhost:8000`.
 
 ## Publish with GitHub Pages
 
-In the repository's **Settings → Pages**, choose **Deploy from a branch**, select the `main` branch and `/ (root)` folder, then save. GitHub Pages will publish `index.html` and its relative assets from the repository root.
+In the repository's **Settings → Pages**, choose **Deploy from a branch**, select the `main` branch and `/ (root)` folder, then save. GitHub Pages will publish `index.html` and its relative assets from the repository root. The first deployment can take a few minutes to appear.
